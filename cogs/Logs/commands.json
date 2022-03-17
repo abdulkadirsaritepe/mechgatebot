@@ -1,0 +1,5 @@
+{
+    "doorStatusNotificationChannels": {
+        "guild_id_STRING": "channel_id_INTEGER"
+    }
+}

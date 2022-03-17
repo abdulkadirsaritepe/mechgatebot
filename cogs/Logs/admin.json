@@ -1,0 +1,19 @@
+{
+    "sudo_password": "password",
+    "sudo_password_rpi": "",
+    "admin_guild": 0,
+    "superadmin_id": 0,
+    "console_channel": 0,
+    "console_webhook": null,
+    "mechgate": {
+        "name": "Mech Gate",
+        "prefix": "%",
+        "token": "BOT_TOKEN",
+        "servers": [],
+        "console_webhook": null
+    },
+    "instagram_login_info": {
+        "username": "<username>",
+        "password": "<password>"
+    }
+}
