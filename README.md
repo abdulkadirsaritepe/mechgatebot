@@ -1,2 +1,2 @@
-# mechgatebot
-Metu Mech Door RFID Check Discord Bot
+# mechgate
+Metu Mech Door Control Discord Bot
