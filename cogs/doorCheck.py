@@ -94,7 +94,7 @@ class DatabaseCommands(Cog):
         self.bot = bot
         self.bot_name = str(bot_name).lower()
         self.logDir = logDir
-        self.doorLogGuildId = 699224778824745003 # TODO 743711488220594217 699224778824745003
+        self.doorLogGuildId = 0
         if sys.platform == "linux":
             self.rpi_os = True
         else:
